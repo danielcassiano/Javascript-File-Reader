@@ -5,17 +5,12 @@
 
 # Usage
 
-```info.txt
-This is the mock file to validate
-```
+```info.txt```
+This is the mock file
 
-```login.html
-Name: aaa
-Email: aaa
-CPF: aaa
 
-Will be readed to successfully validate
-```
+```login.html```
+Use the mock file to validate
 
 # Todos
 
